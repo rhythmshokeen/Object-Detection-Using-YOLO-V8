@@ -67,8 +67,6 @@ Some examples of what the model can detect:
 ~ Cup
 
 ~ Car
-
-~ Pizza
 ...and many more (from the COCO dataset)!
 
 
