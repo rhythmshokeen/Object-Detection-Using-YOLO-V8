@@ -96,6 +96,5 @@ Some examples of what the model can detect:
 ~ OpenCV Python
 
 
-Let me know if you want me to help you generate a `.gitignore`, `requirements.txt`, or sample screenshots for the repo!
 
 Created with ❤️ by RHYTHM SHOKEEN
